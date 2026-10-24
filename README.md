@@ -18,12 +18,17 @@ My current focus is bringing mobile applications, backend services, connected de
 
 *Status: In development.*
 
-## 💻 Public Projects
+## 🌱 Beginner Learning Projects
 
-| Project | Overview |
-| --- | --- |
-| [🏋️ GYM-System](https://github.com/khalid-bader/GYM-System) | A gym website interface with member and admin entry points, built with HTML and CSS. |
-| [🐍 snake-game](https://github.com/khalid-bader/snake-game) | A browser-based Snake game with an Arabic interface, three difficulty levels, and keyboard controls, built with HTML, CSS, and JavaScript. |
+I'm starting with small HTML, CSS, and JavaScript projects to learn by reading, running, and modifying code. These projects were prepared with AI assistance as learning exercises. Each repository includes an Arabic guide, setup instructions, and an actual screenshot.
+
+| Project | What it covers | Try it |
+| --- | --- | --- |
+| [✅ Task List](https://github.com/khalid-bader/beginner-task-list) | Forms, arrays, task completion, and browser storage | [Demo](https://khalid-bader.github.io/beginner-task-list/) |
+| [🧮 Calculator](https://github.com/khalid-bader/beginner-calculator) | Functions, arithmetic, and input validation | [Demo](https://khalid-bader.github.io/beginner-calculator/) |
+| [⏱️ Study Timer](https://github.com/khalid-bader/beginner-study-timer) | Time, events, and application state | [Demo](https://khalid-bader.github.io/beginner-study-timer/) |
+| [🎯 Number Game](https://github.com/khalid-bader/beginner-number-game) | Conditions, random numbers, and attempt tracking | [Demo](https://khalid-bader.github.io/beginner-number-game/) |
+| [💰 Expense Tracker](https://github.com/khalid-bader/beginner-expense-tracker) | Arrays, totals, integer money values, and browser storage | [Demo](https://khalid-bader.github.io/beginner-expense-tracker/) |
 
 ## 🧭 Business Background
 
